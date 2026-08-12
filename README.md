@@ -1,5 +1,4 @@
 <h2 align="center">🚀 RECHERCHE DE STAGE – JANVIER 2027</h2>
-<p align="center">🗓️ Rythme : 3 semaines en entreprise / 1 semaine de cours</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Network+Engineer;SOC+%7C+Pentest+%7C+Blue+Team;Cloud+Security+%7C+Azure+%7C+DevOps;Infrastructure+%26+Systems+Admin" />
 </p>
