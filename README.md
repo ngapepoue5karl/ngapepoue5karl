@@ -4,9 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Network+Engineer;SOC+%7C+Pentest+%7C+Blue+Team;Cloud+Security+%7C+Azure+%7C+DevOps;Infrastructure+%26+Systems+Admin" />
 </p>
 <p align="center">
-<img src="C:\Users\ngape\OneDrive\Documents\Profil GitHub\ngapepoue5karl\projects\assets" width="160"/>
+    <img src="projects/assets/karl.jpg" width="160"/>
 </p>
-<h1 align="center">Imelda Magué</h1>
+<h1 align="center">NGAPEPOUE NGAPEPOUE Karl Popper</h1>
 <p align="center">
 🛡️ Cybersécurité | Réseaux & Systèmes | Cloud & Infra<br>
 🚀 Stage recherchée à partir de Janvier 2026  Admin Sys · Admin Réseaux · SOC · Pentest 
