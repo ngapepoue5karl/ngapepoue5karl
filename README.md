@@ -29,7 +29,7 @@ Stage recherchée à partir de Janvier 2026  Admin Sys · Admin Réseaux · SOC 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karl-popper-ngapepoue-ngapepoue-2703a6285/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngapepouekarl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/ngapepoue5karl)
-[![Téléphone](https://img.shields.io/badge/T%C3%A9l%C3%A9phone-+33%207%2058%2060%2059%2038-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+237 681 79 44 02)
+
 
 </p>
 
